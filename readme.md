@@ -1,3 +1,3 @@
 # Animations [GSAP]
 
-Some my simple svg animations.
+Some my simple svg animations. 
